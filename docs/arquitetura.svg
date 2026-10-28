@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="560" viewBox="0 0 960 560" fill="none">
+  <rect width="960" height="560" rx="24" fill="#ffffff"/>
+  <text x="40" y="48" fill="#0f172a" font-family="ui-sans-serif, system-ui, sans-serif" font-size="20" font-weight="650">Bot Health</text>
+  <text x="40" y="74" fill="#64748b" font-family="ui-sans-serif, system-ui, sans-serif" font-size="13">O app registra o treino. O relógio e o Telegram só completam.</text>
+  <rect x="40" y="120" width="200" height="72" rx="16" fill="#f8fafc" stroke="#0e7490" stroke-width="1.5"/>
+  <text x="140" y="152" text-anchor="middle" fill="#0f172a" font-family="ui-sans-serif, system-ui, sans-serif" font-size="15" font-weight="650">PWA</text>
+  <text x="140" y="172" text-anchor="middle" fill="#64748b" font-family="ui-sans-serif, system-ui, sans-serif" font-size="12">celular, na academia</text>
+  <rect x="40" y="230" width="200" height="72" rx="16" fill="#f8fafc" stroke="#cbd5e1"/>
+  <text x="140" y="262" text-anchor="middle" fill="#0f172a" font-family="ui-sans-serif, system-ui, sans-serif" font-size="15" font-weight="650">Telegram</text>
+  <text x="140" y="282" text-anchor="middle" fill="#64748b" font-family="ui-sans-serif, system-ui, sans-serif" font-size="12">atalho de registro</text>
+  <rect x="40" y="340" width="200" height="72" rx="16" fill="#f8fafc" stroke="#cbd5e1"/>
+  <text x="140" y="372" text-anchor="middle" fill="#0f172a" font-family="ui-sans-serif, system-ui, sans-serif" font-size="15" font-weight="650">Cron</text>
+  <text x="140" y="392" text-anchor="middle" fill="#64748b" font-family="ui-sans-serif, system-ui, sans-serif" font-size="12">todo dia, na Vercel</text>
+  <rect x="370" y="214" width="220" height="120" rx="18" fill="#0e7490"/>
+  <text x="480" y="262" text-anchor="middle" fill="#ffffff" font-family="ui-sans-serif, system-ui, sans-serif" font-size="16" font-weight="650">Next.js</text>
+  <text x="480" y="286" text-anchor="middle" fill="#ecfeff" font-family="ui-sans-serif, system-ui, sans-serif" font-size="12">app e API no mesmo projeto</text>
+  <text x="480" y="306" text-anchor="middle" fill="#ecfeff" font-family="ui-sans-serif, system-ui, sans-serif" font-size="12">monta o histórico da IA</text>
+  <rect x="720" y="120" width="200" height="72" rx="16" fill="#f8fafc" stroke="#cbd5e1"/>
+  <text x="820" y="152" text-anchor="middle" fill="#0f172a" font-family="ui-sans-serif, system-ui, sans-serif" font-size="15" font-weight="650">Neon Postgres</text>
+  <text x="820" y="172" text-anchor="middle" fill="#64748b" font-family="ui-sans-serif, system-ui, sans-serif" font-size="12">treinos, hábitos, sono</text>
+  <rect x="720" y="230" width="200" height="72" rx="16" fill="#f8fafc" stroke="#cbd5e1"/>
+  <text x="820" y="262" text-anchor="middle" fill="#0f172a" font-family="ui-sans-serif, system-ui, sans-serif" font-size="15" font-weight="650">Garmin</text>
+  <text x="820" y="282" text-anchor="middle" fill="#64748b" font-family="ui-sans-serif, system-ui, sans-serif" font-size="12">sono, passos, cardio</text>
+  <rect x="720" y="340" width="200" height="72" rx="16" fill="#f8fafc" stroke="#cbd5e1"/>
+  <text x="820" y="372" text-anchor="middle" fill="#0f172a" font-family="ui-sans-serif, system-ui, sans-serif" font-size="15" font-weight="650">Gemini</text>
+  <text x="820" y="392" text-anchor="middle" fill="#64748b" font-family="ui-sans-serif, system-ui, sans-serif" font-size="12">responde só o que recebeu</text>
+  <path d="M240 156 H330" stroke="#0e7490" stroke-width="1.5"/>
+  <path d="M324 151 l8 5 l-8 5" fill="#0e7490"/>
+  <path d="M330 166 H240" stroke="#94a3b8" stroke-width="1.5"/>
+  <path d="M246 161 l-8 5 l8 5" fill="#94a3b8"/>
+  <path d="M240 266 H370" stroke="#64748b" stroke-width="1.5"/>
+  <path d="M364 261 l8 5 l-8 5" fill="#64748b"/>
+  <path d="M240 376 H330" stroke="#64748b" stroke-width="1.5"/>
+  <path d="M324 371 l8 5 l-8 5" fill="#64748b"/>
+  <path d="M590 250 H720" stroke="#0e7490" stroke-width="1.5"/>
+  <path d="M714 245 l8 5 l-8 5" fill="#0e7490"/>
+  <path d="M720 270 H590" stroke="#94a3b8" stroke-width="1.5"/>
+  <path d="M596 265 l-8 5 l8 5" fill="#94a3b8"/>
+  <path d="M820 230 V214" stroke="#64748b" stroke-width="1.5"/>
+  <path d="M815 214 l5 -8 l5 8" fill="#64748b"/>
+  <path d="M590 300 H720" stroke="#64748b" stroke-width="1.5"/>
+  <path d="M714 295 l8 5 l-8 5" fill="#64748b"/>
+  <text x="40" y="470" fill="#475569" font-family="ui-sans-serif, system-ui, sans-serif" font-size="13">A duração da musculação nasce no PWA. Frequência e calorias só entram se o Garmin cobriu aquele horário.</text>
+  <text x="40" y="494" fill="#475569" font-family="ui-sans-serif, system-ui, sans-serif" font-size="13">O cron puxa o relógio e grava no banco. A pergunta da IA leva um texto com os últimos 30 dias, não uma consulta livre.</text>
+  <text x="40" y="530" fill="#94a3b8" font-family="ui-sans-serif, system-ui, sans-serif" font-size="12">Diagrama da vitrine. Nenhum dado pessoal.</text>
+</svg>
